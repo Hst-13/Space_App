@@ -1,6 +1,7 @@
-# flutter_application_2
+# Space App
 
-A new Flutter project.
+First Flutter Project
+A simple app to view space images from the internet.
 
 ## Getting Started
 
